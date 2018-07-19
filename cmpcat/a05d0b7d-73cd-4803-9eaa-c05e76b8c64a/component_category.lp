@@ -1,0 +1,10 @@
+(librepcb_component_category a05d0b7d-73cd-4803-9eaa-c05e76b8c64a
+ (name "Development Boards")
+ (description "Development boards, e.g. the Particle Photon, the STM32 Blue Pill or the mbed LPC1768.")
+ (keywords "devboard, eval board, development board")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2018-07-17T11:00:42Z)
+ (deprecated false)
+ (parent null)
+)

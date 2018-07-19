@@ -1,0 +1,10 @@
+(librepcb_package_category da689430-daf5-4a78-8c8d-4231a111eb98
+ (name "Custom")
+ (description "Non-standard packages")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2018-07-17T11:01:33Z)
+ (deprecated false)
+ (parent null)
+)
