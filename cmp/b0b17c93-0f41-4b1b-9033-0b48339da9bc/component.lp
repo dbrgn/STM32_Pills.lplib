@@ -34,7 +34,7 @@
  (signal ef89092e-32c4-4f27-ae4c-656bb1ac0378 (name "PB5_MOSI1") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal cc193369-52c3-4c51-853a-f324251bce9b (name "3.3V") (role passive)
+ (signal cc193369-52c3-4c51-853a-f324251bce9b (name "3V3") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal d126aee0-d25d-4a23-886d-d30f427d33c1 (name "PB6_TX1_SCL1") (role passive)

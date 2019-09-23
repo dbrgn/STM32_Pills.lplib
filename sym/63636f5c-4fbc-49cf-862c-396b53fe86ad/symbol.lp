@@ -58,7 +58,7 @@
  (pin 9338f837-d26f-4f75-94eb-08fcc61d1c2c (name "PB13_CTS3_SCK2")
   (pos 17.78 -7.62) (rot 180.0) (length 2.54)
  )
- (pin c2154222-728c-4840-8d18-a749068334bf (name "3.3V")
+ (pin c2154222-728c-4840-8d18-a749068334bf (name "3V3")
   (pos -10.16 -27.94) (rot 90.0) (length 2.54)
  )
  (pin 1a208385-999d-4c51-bffc-30bcc31e4119 (name "GND")
