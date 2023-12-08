@@ -2,8 +2,15 @@
 
 ## Description
 
-This is a [LibrePCB][librepcb] library for the cheap and popular STM32F103 based dev boards like the
-[blue pill][bluepill], the [red pill][redpill] or the [black pill][blackpill].
+This is a [LibrePCB][librepcb] 1.x library for the cheap and popular STM32F103
+based dev boards like the [blue pill][bluepill], the [red pill][redpill] or the
+[black pill][blackpill].
+
+Currently implemented:
+
+- [x] Blue Pill
+- [ ] Black Pill
+- [ ] Red Pill
 
 [librepcb]: http://librepcb.org/
 [bluepill]: https://wiki.stm32duino.com/index.php?title=Blue_Pill
