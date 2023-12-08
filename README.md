@@ -13,9 +13,9 @@ Currently implemented:
 - [ ] Red Pill
 
 [librepcb]: http://librepcb.org/
-[bluepill]: https://wiki.stm32duino.com/index.php?title=Blue_Pill
-[blackpill]: https://wiki.stm32duino.com/index.php?title=Black_Pill
-[redpill]: https://wiki.stm32duino.com/index.php?title=Red_Pill
+[bluepill]: http://web.archive.org/web/20190316163044/https://wiki.stm32duino.com/index.php?title=Blue_Pill
+[blackpill]: http://web.archive.org/web/20190316155736/http://wiki.stm32duino.com/index.php?title=Black_Pill
+[redpill]: http://web.archive.org/web/20190316171654/http://wiki.stm32duino.com/index.php?title=Red_Pill
 
 ## License
 
