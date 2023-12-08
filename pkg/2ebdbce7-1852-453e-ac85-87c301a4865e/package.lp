@@ -3,7 +3,7 @@
  (description "A popular, ultra-cheap and compact STM32F103 board. 2x20 pins.\n\nSee http://wiki.stm32duino.com/index.php?title=Blue_Pill for a description.")
  (keywords "bluepill, blue pill, stm32, stm32f103")
  (author "Danilo Bargen")
- (version "0.1.2")
+ (version "0.1.3")
  (created 2018-07-17T12:36:28Z)
  (deprecated false)
  (generated_by "")
